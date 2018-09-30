@@ -1,9 +1,0 @@
-cpp:
-  zk:
-   namespace: cpp-storm
-   connect-string: one.3cgg.rec:2181
-
-
-
-
-
